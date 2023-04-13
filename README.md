@@ -37,7 +37,7 @@ dentro de cada grupo.
 
 - `GroupedData.xlsx`: Data agrupada.
 - `requirements.txt`: Dependencias del proyecto.
-- `Proyecto_MD.ipynb`: Programa principal del propyecto
+- `Proyecto_MD.ipynb`: Programa principal del proyecto
 
 ## 🕹️ Getting Started
 
