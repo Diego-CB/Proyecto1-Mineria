@@ -5,7 +5,8 @@
 - Python 🐍: Modern syntax, Interpreted Languaje
   > Python 10.0 or higher needed
 
-- JupyterNotebook 📒: Structured python and markdown files
+- JupyterNotebook 📒: Structured python and markdown files.
+- DeepNote 🌊: Colaboration space for jupyter notebook development.
 
 ## ✅ Rúbrica
 
@@ -36,7 +37,7 @@ dentro de cada grupo.
 
 - `GroupedData.xlsx`: Data agrupada.
 - `requirements.txt`: Dependencias del proyecto.
-- `Proyecto_MD.ipynb`: Programa principal del propyecto
+- `Proyecto_MD.ipynb`: Programa principal del proyecto
 
 ## 🕹️ Getting Started
 
