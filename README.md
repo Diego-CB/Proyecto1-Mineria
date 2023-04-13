@@ -5,7 +5,8 @@
 - Python 🐍: Modern syntax, Interpreted Languaje
   > Python 10.0 or higher needed
 
-- JupyterNotebook 📒: Structured python and markdown files
+- JupyterNotebook 📒: Structured python and markdown files.
+- DeepNote 🌊: Colaboration space for jupyter notebook development.
 
 ## ✅ Rúbrica
 
