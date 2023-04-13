@@ -1,4 +1,4 @@
-# Proyecto1-Mineria
+# Proyecto 1 Mineria - Analisis Exploratorio
 
 ## 📡 Tecnologias Utilizadas
 
@@ -49,7 +49,7 @@ dentro de cada grupo.
 ## 🤓 Autores
 
 - Diego Cordova: 20212
-- Cristian Aguirre: 20131
+- Cristian Aguirre: 20231
 - Paola de León: 20361
 - Marco Jurado: 20308
 - Gabriela Contreras: 20213
